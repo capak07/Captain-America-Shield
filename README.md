@@ -9,5 +9,5 @@ pip install turtle
 ## Running the Program
 - In terminal
 ```bash
-pthon/python3 main.py
+python/python3 main.py
 ```
