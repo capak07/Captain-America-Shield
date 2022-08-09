@@ -1,4 +1,4 @@
-# Captain-America-Shield
+# Python Graphics
 - A simple Graphics in Pyhton using Turtle
 
 ## Installing packages
